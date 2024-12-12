@@ -56,10 +56,10 @@ This project demonstrates object detection using the YOLO model with OpenCV and 
 ### Image Detection
 
 Original Image:
-![Original Image](data/images/sample_image.jpg)
+![Original Image](data/images/marche.jpg)
 
 Processed Image:
-![Processed Image](output/images/sample_image.jpg)
+![Processed Image](output/images/marche.jpg)
 
 ### Video Detection
 
